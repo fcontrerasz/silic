@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsListarEmpresas" value="name:ID_EMPRESA;datatype:int,name:PROVEEDOR;datatype:string" />
+</info>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsDivisiones" value="name:ID_DIVISION;datatype:int,name:ID_EMPRESA;datatype:int,name:NOMDIVISION;datatype:string" />
+	<infoitem key="UD_rsEstados" value="name:ID_ESTUSU;datatype:int,name:CR_USRESTAD;datatype:string" />
+	<infoitem key="UD_rsPerfil" value="name:ID_PERFIL;datatype:int,name:PERFIL;datatype:string" />
+	<infoitem key="UD_rsListadoUsuarios" value="name:PERFIL;datatype:string,name:NOMDIVISION;datatype:string,name:CR_USRESTAD;datatype:string,name:PROVEEDOR;datatype:string,name:RUT;datatype:int,name:DV;datatype:string,name:NOMBRE;datatype:string,name:APELLIDOPAT;datatype:string,name:APELLIDOMAT;datatype:string,name:ID_EMPRESA;datatype:int,name:ID_USUARIO;datatype:int,name:ID_ESTUSU;datatype:int" />
+</info>

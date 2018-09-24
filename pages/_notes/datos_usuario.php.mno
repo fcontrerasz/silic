@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsDatosEmpresa" value="name:id_empresa;datatype:int,name:ID_COMUNA;datatype:int,name:ID_RUBRO;datatype:int,name:ID_REGION;datatype:int,name:ID_ESTADOEMP;datatype:int,name:PROVEEDOR;datatype:string,name:RUT;datatype:int,name:DV;datatype:string,name:DIRECCION;datatype:string,name:FONO;datatype:int,name:ID_PROVINCIA;datatype:int" />
+	<infoitem key="UD_rsUsuario" value="name:ID_USUARIO;datatype:int,name:ID_DIVISION;datatype:int,name:ID_PERFIL;datatype:int,name:ID_ESTUSU;datatype:int,name:ID_EMPRESA;datatype:int,name:NOMBRE;datatype:string,name:APELLIDOPAT;datatype:string,name:APELLIDOMAT;datatype:string,name:USUARIO;datatype:string,name:CLAVE;datatype:string,name:CORREO;datatype:string" />
+</info>

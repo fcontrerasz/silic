@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsListadoUsuarios" value="name:PERFIL;datatype:string,name:NOMDIVISION;datatype:string,name:CR_USRESTAD;datatype:string,name:PROVEEDOR;datatype:string,name:RUT;datatype:int,name:DV;datatype:string,name:NOMBRE;datatype:string,name:APELLIDOPAT;datatype:string,name:APELLIDOMAT;datatype:string,name:ID_EMPRESA;datatype:int,name:ID_USUARIO;datatype:int,name:ID_ESTUSU;datatype:int" />
+	<infoitem key="UD_rsLicitacionesCal" value="name:ID_LICITACION;datatype:int,name:CODIGOLICI;datatype:string,name:NOMBRELICI;datatype:string,name:FECHA_INICIO;datatype:datetime,name:FECHA_TERMINO;datatype:datetime" />
+</info>

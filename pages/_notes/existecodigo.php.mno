@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCodigoLicitacion" value="name:ID_LICITACION;datatype:int,name:ID_TIPOLICITACION;datatype:int,name:ID_ESTADOLICITA;datatype:int,name:NOMBRELICI;datatype:string,name:CODIGOLICI;datatype:string,name:FECHA_CREACION;datatype:datetime,name:FECHA_INICIO;datatype:datetime,name:FECHA_TERMINO;datatype:datetime,name:DESCLICI;datatype:string,name:HORA_PST;datatype:time,name:HORA_CST;datatype:time,name:PONDERACION_CA;datatype:int,name:VALOR_CA1;datatype:int,name:VALOR_CA2;datatype:int" />
+</info>

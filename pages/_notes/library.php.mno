@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsDivisiones" value="name:ID_DIVISION;datatype:int,name:ID_EMPRESA;datatype:int,name:NOMDIVISION;datatype:string" />
+	<infoitem key="UD_rsGeneric" value="name:total;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsArchivo" value="name:ID_DOCUMENTACION;datatype:int,name:ID_POSTULACIONES;datatype:int,name:DOCU_ARCHIVO;datatype:blob,name:DOCU_TIPO;datatype:string,name:DOCU_FECHA;datatype:datetime" />
+</info>

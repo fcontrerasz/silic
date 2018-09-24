@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+#jsddm
+{	margin: 0;
+	padding: 0;
+	padding-left:10px;
+	font-family:Helvetica;
+	font-size:10px;
+	
+}
+
+	#jsddm li
+	{	
+	float: left;
+	list-style: none;
+	
+}
+
+.primero{
+border-left: 1px solid white;
+}
+
+	#jsddm li a
+	{	display: block;
+		background: #B8D9B8;
+		padding: 4px 10px;
+		text-decoration: none;
+		border-right: 1px solid white;
+		width: 135px;
+		max-height:15px;
+		background:url(images/title2.gif) repeat-x 0 0;
+		color: #000;
+		white-space: nowrap}
+
+	#jsddm li a:hover
+	{	
+		background: #c2c2c2
+		background:url(images/title2.gif) repeat-x 0 0;
+	}
+		
+		#jsddm li ul
+		{	margin: 0;
+			padding: 0;
+			position: absolute;
+			visibility: hidden;
+			border-top: 1px solid white}
+		
+			#jsddm li ul li
+			{	float: none;
+				display: inline
+			}
+			
+			#jsddm li ul li a
+			{	
+				width: 135px;
+				background: #DEDCC3;
+				text-align:left;
+				color: #24313C;
+				}
+			
+			#jsddm li ul li a:hover
+			{	background: #c2c2c2}

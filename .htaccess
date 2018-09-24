@@ -1,0 +1,8 @@
+<filesMatch "\.(htm|php|html|js)$">
+ForceType 'text/html; charset=UTF-8'
+</filesMatch>
+
+php_value upload_max_filesize 536870912
+php_value post_max_size 536870912
+php_value max_execution_time 200
+php_value max_input_time 200
